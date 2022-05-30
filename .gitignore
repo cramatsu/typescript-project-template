@@ -1,0 +1,23 @@
+# Packages
+node_modules
+
+# Build
+dist/
+typings/
+tsconfig.tsbuildinfo
+
+# Logs
+logs
+*.log
+
+
+# IDE
+.vscode
+.idea
+
+# ENV
+.env 
+.env.test
+
+# MAC OS
+.DS_Store
